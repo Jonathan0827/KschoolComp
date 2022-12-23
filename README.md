@@ -1,1 +1,1 @@
-# KschoolCopm
+# KschoolComp
